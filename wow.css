@@ -1,0 +1,29 @@
+#h1 {
+	font-size:50px;
+	padding-top:120px;
+	text-align:center;
+}
+
+.right.home.icon.divider {
+	color:white;
+}
+
+.fixed.menu {
+	margin:0;
+	padding:0;
+}
+
+.ui.inverted.vertical.centered.aligned.segment {
+	background-size: 100% 100%; 
+	height:350px;
+	background-image: url("https://static.pexels.com/photos/90800/pexels-photo-90800-medium.jpeg")
+}
+
+.ui.inverted.vertical.stripe.segment {
+	background-color:black;
+	padding:100px;
+}
+
+.paragraph1,.paragraph2,.paragraph3 {
+	font-size:20px;
+}
